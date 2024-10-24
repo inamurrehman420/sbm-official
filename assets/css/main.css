@@ -8796,7 +8796,7 @@ tr:first-child {
 .banner-bg::before {
   content: "";
   mix-blend-mode: multiply;
-  background-color: rgb(102 102 102);
+  background-color: rgba(0, 0, 0, 0.34);
   opacity: 0.902;
   position: absolute;
   top: 0;
@@ -8818,15 +8818,15 @@ tr:first-child {
 }
 
 .banner-single-1 {
-  background-image: url("../images/banner/bg1.jpg");
+  background-image: url("../images/background/PHOTO-2024-10-14-20-15-07.jpg");
 }
 
 .banner-single-1_2 {
-  background-image: url("../images/background/megabg.jpg");
+  background-image: url("../images/background/slide-3-.jpg");
 }
 
 .banner-single-3 {
-  background-image: url("../images/background/slide-3.jpg");
+  background-image: url("../images/background/5.jpg");
 }
 
 .banner-single-2 {
