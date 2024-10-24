@@ -7772,7 +7772,7 @@ tr:first-child {
   background: none;
 }
 .banner1 .slider-pagination-area .swiper-paginations .swiper-pagination-bullet:first-child {
-  background-image: url(../images/banner/bannerbg1.jpg);
+  background-image: url(../images/banner/bg1.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -8818,7 +8818,7 @@ tr:first-child {
 }
 
 .banner-single-1 {
-  background-image: url("../images/banner/bannerbg1.jpg");
+  background-image: url("../images/banner/bg1.jpg");
 }
 
 .banner-single-1_2 {
