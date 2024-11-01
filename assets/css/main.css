@@ -4160,10 +4160,10 @@ i {
  * Fucntion End Here
  */
 .rts-menu li .menu-item.active1 {
-  color: var(--theme-color);
+  color: #a59f9f;
 }
 .rts-menu li:hover .menu-item {
-  color: var(--theme-color);
+  color: white;
 }
 .rts-menu li ul .has-dropdown:hover a i {
   -webkit-transform: rotate(180deg);
