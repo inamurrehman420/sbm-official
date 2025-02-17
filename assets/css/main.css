@@ -959,6 +959,7 @@ i {
 
   .bullet{
     width: 20px !important;
+    height: 20px !important;
   }
 .contents{
   padding-left: 40px;
@@ -11798,7 +11799,7 @@ tr:first-child {
   line-height: 24px;
   color: #ffffff;
   font-weight: 600;
-  margin-right: 30px;
+  /*margin-right: 30px;*/
 }
 .rts-gallery-section .filter-button-group .filter-btn:last-child {
   margin-right: 0;
